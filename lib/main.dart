@@ -1,4 +1,5 @@
 import 'package:login_ui_template_flutter/src/features/authentication/screens/splash_screen/splash_screen.dart';
+import 'package:login_ui_template_flutter/src/features/core/screens/dashboard.dart';
 import 'package:login_ui_template_flutter/src/utils/theme/theme.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
@@ -19,7 +20,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       defaultTransition: Transition.leftToRightWithFade,
       transitionDuration: const Duration(milliseconds: 500),
-      home: const SplashScreen(),
+      home: const Dashboard() //SplashScreen(),
     );
   }
 }

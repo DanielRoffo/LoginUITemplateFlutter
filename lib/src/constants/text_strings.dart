@@ -68,3 +68,13 @@ const String tForgetMailSubTitle = "Select one of the options given below to res
 const String tOtpTitle = "CO\nDE";
 const String tOtpSubTitle = "Verification";
 const String tOtpMessage= "Enter the verification code sent at ";
+
+// -- On Boarding Text
+const String tDashboardTitle = "Hey, Coding with T";
+const String tDashboardHeading = "Explore Courses";
+const String tDashboardSearch = "Search...";
+const String tDashboardBannerTitle1 = "Android for Biginners";
+const String tDashboardBannerTitle2 = "JAVA";
+const String tDashboardBannerSubTitle = "10 Lessons";
+const String tDashboardButton = "View All";
+const String tDashboardTopCourses = "Top Courses";

@@ -21,3 +21,10 @@ const String tGoogleLogoImage = "assets/logo/google_logo.png";
 // Forget Password Images
 
 const String tForgetPasswordImage = "assets/images/forget_password/forgetpassword.png";
+
+// Dashboard Images
+
+const String tUserProfileImage = "assets/images/dashboard/icons8user30.png";
+const String tBookmarkIcon = "assets/images/dashboard/icons8user30.png";
+const String tBannerImage1 = "assets/images/dashboard/icons8user30.png";
+const String tTopCouseImage1 = "assets/images/dashboard/icons8user30.png";
